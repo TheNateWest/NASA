@@ -1,0 +1,42 @@
+h1 {font-family: 'Changa One', cursive;}
+
+body {
+width: 850px;
+margin: 0 auto;
+font-family: sans-serif;
+}
+
+main {
+height: 450px;
+background-image: url(./SPACE.jpg);
+font-size: 40px;
+display:flex;
+justify-content:center;
+align-items: center;
+
+
+
+}
+
+.container {
+height: 324px;
+display:flex;
+justify-content:space-around;
+background-color: #cccccc
+}
+
+
+
+h1 {
+
+    
+}
+
+h3 {
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 14px;
+}
